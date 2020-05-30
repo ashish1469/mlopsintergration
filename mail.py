@@ -2,7 +2,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address = "ashishjohn242@gmail.com"
-host_pass = "*****&"
+host_pass = "*****"
 guest_address = "adsk1469@gmail.com"
 subject = "Regarding Succesfull completion for your model through  jenkins "
 content = '''Hey there, 
